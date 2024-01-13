@@ -9,10 +9,10 @@ X-KDE-PluginInfo-Email=gicalucejo@gmail.com
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=LGPL
 X-KDE-PluginInfo-Name=Nothing
-X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Version=1.1
 X-KDE-PluginInfo-Website=
 X-Plasma-API=5.0
-comment=Homero prueba
+comment=Nothing Plasma
 
 [Wallpaper]
 defaultWallpaperTheme=
