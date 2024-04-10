@@ -42,15 +42,6 @@ var layout = {
                             "showIcon": "false"
                         }
                     },
-                    "plugin": "org.kde.windowtitle"
-                },
-                {
-                    "config": {
-                        "/ConfigDialog": {
-                            "DialogHeight": "480",
-                            "DialogWidth": "640"
-                        }
-                    },
                     "plugin": "org.kde.plasma.appmenu"
                 },
                 {
@@ -67,7 +58,7 @@ var layout = {
                         },
                         "/Appearance": {
                             "customSpacing": "1.7171717171717171",
-                            "enabledCalendarPlugins": "/usr/lib/qt5/plugins/plasmacalendarplugins/holidaysevents.so",
+                            "enabledCalendarPlugins": "/usr/lib/qt6/plugins/plasmacalendarplugins/holidaysevents.so",
                             "fixedFont": "true",
                             "fontFamily": "SFNS Display",
                             "fontSize": "15"
@@ -77,7 +68,7 @@ var layout = {
                             "DialogWidth": "680"
                         }
                     },
-                    "plugin": "org.kde.plasma.betterinlineclock"
+                    "plugin": "org.kde.plasma.digitalclock"
                 },
                 {
                     "config": {
