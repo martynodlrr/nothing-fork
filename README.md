@@ -1,5 +1,1 @@
-# Nothing
-
-Plasma theme
-
- ![alt text](https://i.ibb.co/fYdZZ60/Nothing-Global.jpg)
+forked from [https://gitlab.com/jomada/nothing.git](https://gitlab.com/jomada/nothing.git) 
